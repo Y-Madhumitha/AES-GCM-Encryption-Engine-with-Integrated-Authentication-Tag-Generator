@@ -10,10 +10,10 @@ AES-GCM (Advanced Encryption Standard in Galois/Counter Mode) is a widely adopte
 
 ## ✨ Key Highlights
 
-- . *AES-GCM Mode:* Combines AES encryption with Galois field multiplication for authentication.
-- . *Integrated Tag Generation:* Ensures both data confidentiality and integrity in one operation.
-- . *Efficient Hardware Implementation:* Optimized for minimal resource usage and high throughput.
-- . *Developed in Verilog* and *simulated using ModelSim*.
+-  *AES-GCM Mode:* Combines AES encryption with Galois field multiplication for authentication.
+-  *Integrated Tag Generation:* Ensures both data confidentiality and integrity in one operation.
+-  *Efficient Hardware Implementation:* Optimized for minimal resource usage and high throughput.
+-  *Developed in Verilog* and *simulated using ModelSim*.
 
 ---
 
